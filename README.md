@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,C++ programming languages**
 
-- 💬 Ask me about **Graphic Designing,UI/UXdesigning,OOPs**
+- 💬 Ask me about **Graphic Designing,UI/UXdesigning**
 
 - 📫 How to reach me **sanskratishukla8@gmail.com**
 
