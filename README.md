@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sanskrati shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskrati shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskratishuklaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskratishuklaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sanskratishukla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanskratishukla8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sanskratishukla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanskratishukla8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanskratishukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskratishukla" height="30" width="40" /></a>
 </p>
 
