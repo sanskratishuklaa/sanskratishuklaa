@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskratishuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="sanskratishuklaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskratishuklaa" alt="sanskratishuklaa" /></a> </p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 - 🌱 I’m currently learning **C,C++ programming languages**
 
