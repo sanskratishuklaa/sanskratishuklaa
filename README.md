@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Btech student from Shri Vaishnav Vidhyapeeth Vishwavidyalya INDORE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskratishuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="sanskratishuklaa" /> </p>
-<h3 align="left">Skills:</h3>
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 - 🌱 I’m currently learning **C,C++ programming languages**
 
