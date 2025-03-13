@@ -1,10 +1,10 @@
-<h1 align="center">Heyfolks👋, I'm Sanskrati Shukla</h1>
-<h3 align="center">A passionate Btech student from Shri Vaishnav Vidhyapeeth Vishwavidyalya INDORE</h3> 
+<h1 align="center">Heyfolks,I'm Sanskrati Shukla</h1>
+<h3 align="center">A Passionate Btech Student from Shri Vaishnav Vidhyapeeth Vishwavidyalya Indore</h3> 
 <!-- Skills Section -->
 <h1 align="center" style="font-weight: bold;">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,html,css,java,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git" />
   </a>
 </p>
 
