@@ -1,4 +1,4 @@
-<h1 align="center">Heyfolks! I'm Sanskrati Shukla</h1>
+<h1 align="center">Heyfolks!Glad to connect🚀</h1>
 <h3 align="center">A Passionate Learner who loves to explore more about the technologies.</h3> 
 <!-- Skills Section -->
 <h1 align="center" style="font-weight: bold;">Skills</h1>
