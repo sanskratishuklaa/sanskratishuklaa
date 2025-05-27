@@ -25,7 +25,7 @@
     <!-- GitHub -->
     <td align="center" valign="top">
       <br>
-        <a href="(https://github.com/sanskratishuklaa)">
+        <a href="https://github.com/sanskratishuklaa">
           <img src="https://skillicons.dev/icons?i=github" />
         </a>
       <h6>Github: sanskratishuklaa</h6>
