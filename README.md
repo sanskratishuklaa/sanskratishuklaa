@@ -25,10 +25,10 @@
     <!-- GitHub -->
     <td align="center" valign="top">
       <br>
-        <a href="https://github.com/sanskratishuklaa">
-          <img src="https://skillicons.dev/icons?i=github" />
+        <a href="(https://unstop.com/u/sanskshu25280?lb=Tem4lpbk&utm_medium=Share&utm_source=WhatsApp)">
+          <img src="https://skillicons.dev/icons?i=unstop" />
         </a>
-      <h6>GitHub: sanskratishuklaa</h6>
+      <h6>unstop: Sanskrati Shukla</h6>
     </td>
   </tr>
 </table>
