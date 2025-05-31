@@ -25,10 +25,10 @@
     <!-- GitHub -->
     <td align="center" valign="top">
       <br>
-        <a href="https://github.com/sanskratishuklaa">
-          <img src="https://skillicons.dev/icons?i=github" />
+        <a href="https://leetcode.com/u/sanskratishukla/">
+          <img src="https://skillicons.dev/icons?i=leetcode" />
         </a>
-      <h6>Github: sanskratishuklaa</h6>
+      <h6>Leetcode: sanskratishuklaa</h6>
     </td>
   </tr>
 </table>
