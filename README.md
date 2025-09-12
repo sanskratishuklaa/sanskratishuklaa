@@ -4,7 +4,7 @@
 <h1 align="center" style="font-weight: bold;">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,reactjs,aws,flask,django" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,reactJs,aws,django" />
   </a>
 </p>
 
