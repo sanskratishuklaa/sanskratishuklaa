@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋 I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
-<h3 align="center">
-I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology. Here's a glimpse into my tech exploration:
-
+<h5 align="center">
+I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
+  Here's a glimpse into my tech exploration:
 💻 Learning Toolkit
 JavaScript: Crafting the building blocks of dynamic web applications.
 HTML & CSS: Building the visual foundations of user interfaces.
@@ -33,7 +33,7 @@ Twitter: Sanskrati Shukla
 🌱 Passion for Continuous Learning
 I'm always exploring new technologies and methodologies to stay ahead in the tech world. Whether it's diving into the latest frameworks, participating in tech communities, or collaborating on open-source projects, my journey is driven by a thirst for knowledge and innovation.
 🌱 Connect and Grow
-Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨</h3> 
+Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨</h5> 
 <!-- Skills Section -->
 <h1 align="center" style="font-weight: bold;">Skills</h1>
 <p align="center">
