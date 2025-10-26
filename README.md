@@ -37,7 +37,7 @@
 <p <h5 align="Paragraph">
 I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
   
- <p Here's a glimpse into my tech exploration:>
+ <p <h2 Here's a glimpse into my tech exploration:</h2></p>
   
 💻 Learning Toolkit
 JavaScript: Crafting the building blocks of dynamic web applications.
@@ -59,12 +59,12 @@ Flask: Use for design simple project's backend
 Django: Utilizing the power of most popular python backend framework.</p>
 
 
-<p 🏆 Achievements>
+<p <h2 🏆 Achievements</h2> </p>
 BitNBuild: Developed innovative solutions under time constraints.
 
 Crio.do: Tackled real-world problems with creative tech approaches.
 
-Google Cloud: Collaborated on cutting-edge projects to solve industry challenges.</p>
+Google Cloud: Collaborated on cutting-edge projects to solve industry challenges.
 
 
 <p 🚀 Experience & Involvements>
