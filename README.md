@@ -35,11 +35,11 @@
 
 
 <p <h5 align="Paragraph">
-<h2 I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology. </h2></p>
+< I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
   
- <h2 Here's a glimpse into my tech exploration:</h2>
+ Here's a glimpse into my tech exploration:
   
-<h2 💻 Learning Toolkit </h2>
+ 💻 Learning Toolkit 
 JavaScript: Crafting the building blocks of dynamic web applications.
 
 HTML & CSS: Building the visual foundations of user interfaces.
@@ -59,7 +59,7 @@ Flask: Use for design simple project's backend
 Django: Utilizing the power of most popular python backend framework.</p>
 
 
-<p <h2 🏆 Achievements</h2> </p>
+<p 🏆 Achievements </p>
 BitNBuild: Developed innovative solutions under time constraints.
 
 Crio.do: Tackled real-world problems with creative tech approaches.
