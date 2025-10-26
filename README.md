@@ -35,7 +35,7 @@
 
 
 <p <h5 align="Paragraph">
-< I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
+I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
   
  Here's a glimpse into my tech exploration:
   
@@ -86,12 +86,11 @@ Telematics Solution for the Department of Posts: Developing a system to optimize
 Web Development Projects: Building and maintaining websites for various organizations, focusing on usability and functionality.
 Hackathon Projects: Leading teams to develop innovative solutions in high-pressure environments, consistently achieving top positions.
 
-🌟 Let's Learn Together
-LinkedIn: Sanskrati Shukla
-Twitter: Sanskrati Shukla
 
 🌱 Passion for Continuous Learning
+
 I'm always exploring new technologies and methodologies to stay ahead in the tech world. Whether it's diving into the latest frameworks, participating in tech communities, or collaborating on open-source projects, my journey is driven by a thirst for knowledge and innovation.
 
 🌱 Connect and Grow
+
 Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨</h5> 
