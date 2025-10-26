@@ -1,5 +1,13 @@
 <h1 align="center">Hello there! 👋 I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
-<h5 align="center">
+<!-- Skills Section -->
+<h1 align="center" style="font-weight: bold;">Skills</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,react,flask,aws,django,mysql" />
+  </a>
+</p>
+
+<h5 align="Paragraph">
 I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
   
   Here's a glimpse into my tech exploration:
@@ -60,13 +68,6 @@ I'm always exploring new technologies and methodologies to stay ahead in the tec
 
 🌱 Connect and Grow
 Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨</h5> 
-<!-- Skills Section -->
-<h1 align="center" style="font-weight: bold;">Skills</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,react,flask,aws,django,mysql" />
-  </a>
-</p>
 
 <!-- Socials Section -->
 <table align="center">
