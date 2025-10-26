@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<h5 align="Paragraph">
-I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
+<p <h5 align="Paragraph">
+I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.</p>
   
-  Here's a glimpse into my tech exploration:
+ <p Here's a glimpse into my tech exploration:
   
 💻 Learning Toolkit
 JavaScript: Crafting the building blocks of dynamic web applications.
@@ -29,21 +29,21 @@ React Native: Creating seamless, cross-platform mobile experiences.
 
 Flask: Use for design simple project's backend
 
-Django: Utilizing the power of most popular python backend framework.
+Django: Utilizing the power of most popular python backend framework.</p>
 
 
-🏆 Achievements
+<p🏆 Achievements
 BitNBuild: Developed innovative solutions under time constraints.
 
 Crio.do: Tackled real-world problems with creative tech approaches.
 
-Google Cloud: Collaborated on cutting-edge projects to solve industry challenges.
+Google Cloud: Collaborated on cutting-edge projects to solve industry challenges.</p>
 
 
-🚀 Experience & Involvements
+<p 🚀 Experience & Involvements
 👨‍💻 Developer at Aurxon.Ai - Contributing to blockchain projects and learning the ropes of decentralized systems.
 
-🤖 Open Source Contributor - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.
+🤖 Open Source Contributor - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.</p>
 
 
 🚀 Current Study Path
