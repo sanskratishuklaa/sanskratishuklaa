@@ -1,4 +1,5 @@
-<h1 align="center">Hello there! 👋 I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
+<h1 align="center">Hello there!👋I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
+
 <!-- Skills Section -->
 <h1 align="center" style="font-weight: bold;">Skills</h1>
 <p align="center">
@@ -7,8 +8,34 @@
   </a>
 </p>
 
+<!-- Socials Section -->
+<table align="center">
+  <tr>
+    <th colspan="2" align="center" style="font-size: 24px; font-weight: bold;">Socials</th>
+  </tr>
+  <tr>
+    <!-- LinkedIn -->
+    <td align="center" valign="top">
+      <br>
+        <a href="https://www.linkedin.com/in/sanskrati-shukla-307293324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <h6>LinkedIn: Sanskrati Shukla</h6>
+    </td>
+    <!-- GitHub -->
+    <td align="center" valign="top">
+      <br>
+        <a href="https://github.com/sanskratishuklaa">
+          <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+      <h6>Github: sanskratishuklaa</h6>
+    </td>
+  </tr>
+</table>
+
+
 <p <h5 align="Paragraph">
-I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.</p>
+I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
   
  <p Here's a glimpse into my tech exploration:>
   
@@ -68,28 +95,3 @@ I'm always exploring new technologies and methodologies to stay ahead in the tec
 
 🌱 Connect and Grow
 Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨</h5> 
-
-<!-- Socials Section -->
-<table align="center">
-  <tr>
-    <th colspan="2" align="center" style="font-size: 24px; font-weight: bold;">Socials</th>
-  </tr>
-  <tr>
-    <!-- LinkedIn -->
-    <td align="center" valign="top">
-      <br>
-        <a href="https://www.linkedin.com/in/sanskrati-shukla-307293324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-          <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <h6>LinkedIn: Sanskrati Shukla</h6>
-    </td>
-    <!-- GitHub -->
-    <td align="center" valign="top">
-      <br>
-        <a href="https://github.com/sanskratishuklaa">
-          <img src="https://skillicons.dev/icons?i=github" />
-        </a>
-      <h6>Github: sanskratishuklaa</h6>
-    </td>
-  </tr>
-</table>
