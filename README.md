@@ -35,11 +35,11 @@
 
 
 <p <h5 align="Paragraph">
-I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology.</p>
+<h2 I'm currently studying at Shri Vaishnav Vidyapeeth Vishwavidyalaya, passionately exploring the vast world of technology. </h2></p>
   
- <p <h2 Here's a glimpse into my tech exploration:</h2></p>
+ <h2 Here's a glimpse into my tech exploration:</h2>
   
-💻 Learning Toolkit
+<h2 💻 Learning Toolkit </h2>
 JavaScript: Crafting the building blocks of dynamic web applications.
 
 HTML & CSS: Building the visual foundations of user interfaces.
