@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!👋I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
 
 <!-- Skills Section -->
-<h1 align="center" style="font-weight: bold;">Skills</h1>
+<h1 align="center" style="font-weight: bold;">Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,react,flask,aws,django,mysql" />
