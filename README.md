@@ -1,32 +1,50 @@
 <h1 align="center">Hello there! 👋 I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
 <h5 align="center">
 I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
+  
   Here's a glimpse into my tech exploration:
   
 💻 Learning Toolkit
 JavaScript: Crafting the building blocks of dynamic web applications.
+
 HTML & CSS: Building the visual foundations of user interfaces.
+
 Node.js & Express: Navigating the backend to bring ideas to life.
+
 MongoDB: Diving into the world of NoSQL databases for scalable and flexible data storage.
+
 MERN Stack: Building modern, full-stack web applications with MongoDB, Express, React, and Node.js.
+
 Next.js: Enhancing React applications with server-side rendering and static site generation.
+
 React Native: Creating seamless, cross-platform mobile experiences.
+
 Flask: Use for design simple project's backend
+
 Django: Utilizing the power of most popular python backend framework.
+
 
 🏆 Achievements
 BitNBuild: Developed innovative solutions under time constraints.
+
 Crio.do: Tackled real-world problems with creative tech approaches.
+
 Google Cloud: Collaborated on cutting-edge projects to solve industry challenges.
+
 
 🚀 Experience & Involvements
 👨‍💻 Developer at Aurxon.Ai - Contributing to blockchain projects and learning the ropes of decentralized systems.
+
 🤖 Open Source Contributor - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.
+
 
 🚀 Current Study Path
 📚 Node.js & MongoDB: Deepening backend expertise to build robust applications.
+
 🌐 Next.js: Enhancing skills in full-stack development with a focus on performance and scalability.
+
 📱 React Native: Mastering mobile app development to create high-quality, user-friendly applications.
+
 
 🌟 Projects & Contributions
 Telematics Solution for the Department of Posts: Developing a system to optimize trucking operations, featuring real-time data integration, live tracking, and capacity utilization analysis.
