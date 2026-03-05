@@ -17,7 +17,7 @@
     <!-- LinkedIn -->
     <td align="center" valign="top">
       <br>
-        <a href="https://www.linkedin.com/in/sanskrati-shukla-307293324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <a href="https://www.linkedin.com/in/s-shuklaji23/">
           <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
       <h6>LinkedIn: Sanskrati Shukla</h6>
