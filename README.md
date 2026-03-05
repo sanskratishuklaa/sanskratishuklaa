@@ -11,7 +11,7 @@
 <!-- Socials Section -->
 <table align="center">
   <tr>
-    <th colspan="2" align="center" style="font-size: 24px; font-weight: bold;">Socials</th>
+    <th colspan="3" align="center" style="font-size: 24px; font-weight: bold;">Socials</th>
   </tr>
   <tr>
     <!-- LinkedIn -->
@@ -34,7 +34,7 @@
      <td align="center" valign="top">
       <br>
         <a href="https://x.com/SansShuklaa23">
-          <img src="https://skillicons.dev/icons?i=twitter" />
+          <img src="https://skillicons.dev/icons?i=X" />
         </a>
       <h6>X: sanskratishuklaa</h6>
     </td>
