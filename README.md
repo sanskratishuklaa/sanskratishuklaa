@@ -34,7 +34,7 @@
      <td align="center" valign="top">
       <br>
         <a href="https://x.com/SansShuklaa23">
-          <img src="https://skillicons.dev/icons?i=X" />
+          <img src="https://skillicons.dev/icons?i=twitter" />
         </a>
       <h6>X: sanskratishuklaa</h6>
     </td>
