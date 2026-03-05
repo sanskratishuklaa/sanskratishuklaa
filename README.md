@@ -4,7 +4,7 @@
 <h1 align="center" style="font-weight: bold;">Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,python,javascript,docker,figma,react,flask,aws,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,git,python,javascript,docker,figma,react,flask,aws,django,mysql" />
   </a>
 </p>
 
@@ -29,6 +29,14 @@
           <img src="https://skillicons.dev/icons?i=github" />
         </a>
       <h6>Github: sanskratishuklaa</h6>
+      <!-- Twitter -->
+    </td>
+     <td align="center" valign="top">
+      <br>
+        <a href="https://x.com/SansShuklaa23">
+          <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+      <h6>X: sanskratishuklaa</h6>
     </td>
   </tr>
 </table>
