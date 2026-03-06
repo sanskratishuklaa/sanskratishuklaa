@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!👋I'm Sanskrati Shukla, a student on a learning adventure.🚀</h1>
+<h1 align="center">Hello there👋I'm Sanskrati Shukla🚀</h1>
 
 <!-- Skills Section -->
 <h1 align="center" style="font-weight: bold;">Tech Stack</h1>
