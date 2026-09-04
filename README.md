@@ -4,7 +4,7 @@
 <h1 align="center" style="font-weight: bold;">Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,python,javascript,docker,go,react,flask,aws,django,postgreSQL" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,python,javascript,docker,go,react,flask,aws,django,postgresql" />
   </a>
 </p>
 
